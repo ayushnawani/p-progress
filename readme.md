@@ -171,3 +171,8 @@ To run the promises in series, set it to `1`.
 ## License
 
 MIT © [Sindre Sorhus](https://sindresorhus.com)
+
+
+## TODO
+ Add Cli configuration.
+
